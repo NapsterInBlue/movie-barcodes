@@ -1,0 +1,8 @@
+# executables
+
+ffmpeg*
+ffprobe*
+
+# dev stuff
+.vscode
+__pycache__
